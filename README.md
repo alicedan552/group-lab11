@@ -28,3 +28,12 @@
 - Resource: mana, starts with 5/15
 - Special attack: heals all allies to restore hp and special resource
 4. Support: heals one person, restores some of their special resource
+
+
+### Demon (if only one "boss" opponent)
+1. Default HP: 40/50
+2. Attack: hex
+3. Special ability
+- Resource: souls, starts with 20/40
+- Special attack: curse of darkness, 30/40 necessary
+4. Support: summons dark magic
